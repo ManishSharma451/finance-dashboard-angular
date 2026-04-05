@@ -8,14 +8,13 @@
 ## 📂 Project Structure
 
 src/app/
-│
 ├── models/
 ├── services/
 ├── components/
-│   ├── dashboard
-│   ├── transactions
-│   ├── insights
-│   ├── header
+│ ├── dashboard/
+│ ├── transactions/
+│ ├── insights/
+│ ├── header/
 │
 ├── app.component.ts
 ├── app.routes.ts
